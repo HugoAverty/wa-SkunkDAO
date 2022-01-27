@@ -2,3 +2,6 @@
 yarn.lock
 *.sketch
 docs/Moodboard.pdf
+mothership/src/.DS_Store
+.DS_Store
+mothership/src/assets/TOORDER
